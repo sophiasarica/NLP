@@ -8,7 +8,7 @@
 
 ### 3. Which of the following is not a disadvantage of rule-based approaches for NLP?
 
-- Requires huge dataset
+- None of the above
 
 ### 4. What are the two major types of NLP approaches?
 
