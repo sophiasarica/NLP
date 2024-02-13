@@ -12,8 +12,8 @@
 
 ### 4. What are the two major types of NLP approaches?
 
-- **Machine Learning: Almost any NLP process is built upon a Machine Learning system**
-- **General Artificial Intelligence: Knowledge about rule-based and knowledge-based systems**
+- Machine Learning: Almost any NLP process is built upon a Machine Learning system
+- General Artificial Intelligence: Knowledge about rule-based and knowledge-based systems
 
 
 ### 5. Use TextBlob to translate a sentence in English into French, Mandarin, and Hindi?
